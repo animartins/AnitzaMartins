@@ -1,11 +1,11 @@
-#title{
-    color: green
+body{
+    background-color: rgb(36, 92, 197);
+    color: white;
+    padding: 30px
+    
 }
 
-.blue {
-    color: blue
-}
-
-h2 {
-    color:purple
+ul{
+    boarder: 1px solid red;
+    padding: 20px;
 }
